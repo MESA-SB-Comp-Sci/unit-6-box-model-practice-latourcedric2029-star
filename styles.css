@@ -1,4 +1,17 @@
-* {
-    box-sizing: border-box;
+h1 {
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+    background-color: red;
+    border: 20px dotted blue;
+    margin: 100px;
 }
 
+header {
+        width: 200px;
+        height: 200px;
+        padding: 50px;
+        background-color: red;
+        border: 20px dotted blue;
+        margin: 100px;
+}
